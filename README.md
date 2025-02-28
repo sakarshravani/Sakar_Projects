@@ -86,7 +86,7 @@ This project is managed internally. For feedback or issues, contact the developm
 ---
 
 ## **License**  
-Proprietary software owned by [Your Organization Name].  
+Proprietary software owned by Sakar Robotics.  
 
 ---
 
