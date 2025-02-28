@@ -91,9 +91,9 @@ Proprietary software owned by [Your Organization Name].
 ---
 
 ## **Contact**  
-- **Project Lead**: [Your Name]  
-- **Email**: [Your Email]  
-- **GitHub**: [Your Office GitHub Account Link]  
+- **Project Lead**: Omkar Kulkarni 
+- **Email**: omkar@sakarrobotics.com  
+- **GitHub**:   
 
 ---
 
