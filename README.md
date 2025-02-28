@@ -35,10 +35,14 @@ The **SPM CVVRS System** (Speedometer and Crew Voice/Video Recording System) is 
      pip install pandas numpy opencv-python matplotlib  
      ```  
 3. **Run the Application**:  
-   - Execute the main script:  
+   - Execute the main script for CVVRS:  
      ```bash  
      python main.py  
-     ```  
+     ```
+   - Execute the main script for CVVRS:  
+     ```bash  
+     uvicorn main:app --reload  
+     ```   
 
 ---
 
