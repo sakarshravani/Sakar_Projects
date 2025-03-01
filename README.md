@@ -75,8 +75,8 @@ The **SPM CVVRS System** (Speedometer and Crew Voice/Video Recording System) is 
 
 ## **Technical Stack**  
 - **Backend**: Python (Pandas, OpenCV, NumPy)  
-- **Frontend**: [Specify UI framework, e.g., Tkinter, PyQt]  
-- **AI Model**: [Mention if using TensorFlow/PyTorch for action detection]  
+- **Frontend**: [Nodejs]  
+- **AI Model**: []  
 
 ---
 
